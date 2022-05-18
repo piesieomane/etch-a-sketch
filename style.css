@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.main>.sketchboard {
+    display: flex;
+    align-items: center;
+}
+
+.grid {
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+    display: grid;
+    grid-template-columns:minmax(50px, 1fr);
+    border: 3px solid black;   
+}
