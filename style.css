@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    padding: 10px;
+    padding:0;
     box-sizing: border-box;
 }
 
@@ -14,6 +14,6 @@
     width: 400px;
     background-color: blue;
     display: grid;
-    grid-template-columns:minmax(50px, 1fr);
+    /* grid-template-columns:minmax(50px, 1fr); */
     border: 3px solid black;   
 }
