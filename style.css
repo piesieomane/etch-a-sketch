@@ -12,7 +12,7 @@
 .grid {
     height: 400px;
     width: 400px;
-    background-color: blue;
+    background-color: white;
     display: grid;
     /* grid-template-columns:minmax(50px, 1fr); */
     border: 3px solid black;   
